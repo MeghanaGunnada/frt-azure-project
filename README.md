@@ -1,0 +1,1 @@
+# frt-azure-project
