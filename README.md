@@ -6,7 +6,7 @@ This is a web based application developed for travel related website in india
 
 
 **Project Link** - https://brave-ground-020149400.3.azurestaticapps.net/
-**Project demo video link** - 
+**Project demo video link** - https://youtu.be/9Cv7bqOPZ_U     
 
 # Azure technologies used for project
 - static web apps
